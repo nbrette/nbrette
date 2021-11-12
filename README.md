@@ -2,7 +2,7 @@
   <img src="https://image.noelshack.com/fichiers/2020/48/7/1606677039-banniere-git.png"  width="60%" >
  </p>
  <p align="center">
- <a href="www.linkedin.com/in/nicolas-brette-9a4ab020a"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=5%> </a>
+ <a href="https://www.linkedin.com/in/nicolas-brette-9a4ab020a"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=5%> </a>
    </p>
  <h2 align="center">Computer Science and Cybersecurity student</h2>
 

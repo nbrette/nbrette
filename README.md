@@ -1,6 +1,6 @@
  <p align="center">
  <a href="https://www.linkedin.com/in/nicolas-brette-9a4ab020a"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" width=5%> </a>
- <a href=" https://www.upwork.com/freelancers/~015e8a75bb499b1136?viewMode=1"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Upwork.png" width=5%> </a>
+ <a href="https://www.upwork.com/freelancers/~015e8a75bb499b1136?viewMode=1"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Upwork.png" width=5%> </a>
 
  </p>
  
